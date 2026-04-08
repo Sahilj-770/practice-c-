@@ -2,7 +2,7 @@
 
 This repository contains my C++ learning journey, where I practice core concepts, solve problems, and build a strong foundation in programming.
 
-##📌 About
+## 📌 About
 
 I created this repo to:
 
