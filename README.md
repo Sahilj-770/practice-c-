@@ -11,7 +11,7 @@ Improve problem-solving skills
 Prepare for DSA & competitive programming
 Track my learning progress over time
 
-##🧠 Topics Covered
+## 🧠 Topics Covered
 - 🔹 Basics (variables, loops, conditionals)
 - 🔹 Functions & recursion
 - 🔹 Arrays & strings
@@ -41,11 +41,11 @@ g++ filename.cpp -o output
 Run:
 
 ./output
-📈 Progress
-✅ Basics completed
-✅ Arrays & strings
-🔄 OOP (ongoing)
-⏳ DSA coming next
+- 📈 Progress
+- ✅ Basics completed
+- ✅ Arrays & strings
+- 🔄 OOP (ongoing)
+- ⏳ DSA coming next
 
 ## 🎯 Future Goals
 Solve LeetCode / Codeforces problems
